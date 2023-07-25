@@ -17,5 +17,3 @@ I have a bachelor's degree in computer engineering, I'm currently working on my 
 - [Docker](https://github.com/DRKV333/bareos-docker)
 - Obscure languages, such as: UnrealScript, Perl, Prolog
 - I also have a little bit of experience with web frontend development.
-
-I am looking for work/internship opportunities. If you need someone who can work with any of these and more, in person in Budapest, or anywhere remotely, please contact me: drkv333@gmail.com
